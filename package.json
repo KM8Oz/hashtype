@@ -1,0 +1,17 @@
+{
+    "name": "hashtype",
+    "collaborators": [
+        "km8oz <ouazmir@gmail.com>"
+    ],
+    "license": "MIT",
+    "version": "0.1.0",
+    "files": [
+        "hashtype_bg.wasm",
+        "hashtype.js",
+        "hashtype_bg.js",
+        "hashtype.d.ts"
+    ],
+    "module": "hashtype.js",
+    "types": "hashtype.d.ts",
+    "sideEffects": false
+}
